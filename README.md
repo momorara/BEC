@@ -10,5 +10,5 @@
 ・基板のバージョンが変わる場合がありますが、機能等にちがいはありません。<br>
 
 <h4><<その他プロダクト>></h4>
-・https://raspi.thebase.in/
+・https://raspi.thebase.in/<br>
 お問い合わせは、HPからでも良いですし、pc_mailbox@mineo.jpでも構いません。
